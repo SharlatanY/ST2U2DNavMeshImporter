@@ -7,7 +7,7 @@ ST2U2DNavMeshImporter is a Unity Package that provides a custom importer to auto
 
 Prerequisites
 ---
-* [SuperTiled2Unity](https://seanba.itch.io/supertiled2unity)
+* [SuperTiled2Unity](https://github.com/Seanba/SuperTiled2Unity)
 * [Unity NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents)
 
 Usage
@@ -44,5 +44,5 @@ Current version tested with:
 
 3rd party components provided with project
 ---
-* [SuperTiled2Unity](https://seanba.itch.io/supertiled2unity) (MIT license, for full license details see subfolder *SuperTiled2Unity*)
+* [SuperTiled2Unity](https://github.com/Seanba/SuperTiled2Unity) (MIT license, for full license details see subfolder *SuperTiled2Unity*)
 * [Unity NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents) (MIT license, for full license details see subfolder *NavMeshComponents*)
