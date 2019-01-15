@@ -1,7 +1,10 @@
 # ST2U2DNavMeshImporter
 About
 ---
-ST2U2DNavMeshImporter is a Unity Package that provides a custom importer to automatically setting up 2D Navmeshes (using [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker)) when importing [Tiled](https://www.mapeditor.org/) tilempas through [SuperTiled2Unity](https://seanba.itch.io/supertiled2unity).
+ST2U2DNavMeshImporter is a Unity Package that provides a custom importer to automatically setting up 2D Navmeshes (using [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker)) when importing [Tiled](https://www.mapeditor.org/) tilempas through [SuperTiled2Unity](https://seanba.itch.io/supertiled2unity).  
+The importer automatically creates a NavMeshSurface with the correct position, rotation, size and all the necessary components. 
+
+**All that's left to bake your NavMesh after importing the tilemap is the press of a button!**
 
 ![](https://raw.githubusercontent.com/SharlatanY/ST2U2DNavMeshImporter/master/docs/img/tilemap_navmesh.png)
 
