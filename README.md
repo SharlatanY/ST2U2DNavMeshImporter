@@ -8,6 +8,7 @@ ST2U2DNavMeshImporter is a Unity Package that provides a custom importer to auto
 Prerequisites
 ---
 * [SuperTiled2Unity](https://github.com/Seanba/SuperTiled2Unity)
+* [NavMeshSurface2DBaker](https://github.com/SharlatanY/NavMeshSurface2DBaker)
 * [Unity NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents)
 
 Usage
