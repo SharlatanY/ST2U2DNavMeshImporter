@@ -15,15 +15,8 @@ ScriptedImporter:
     100014: _MapPrfab/TestOverhead/OnGround/Pillar (TRS)/Pillar (CF)
     100016: _MapPrfab/TestOverhead/OnGround/Pillar (TRS)/Pillar (CF)/Pillar
     100018: _MapPrfab/TestOverhead/NavMesh
-    100020: _MapPrfab/TestOverhead/NavMesh/Cube
-    100022: _MapPrfab/TestOverhead/NavMesh/Cube
     100024: _MapPrfab/TestOverhead/OnGround/Pillar (TRS)/Pillar (CF)/Pillar/Object_2
     100026: _MapPrfab/TestOverhead/OnGround/Spawn
-    100028: _MapPrfab/TestOverhead/NavMesh/Mesh
-    100030: _MapPrfab/TestOverhead/NavMesh/Mesh
-    100032: _MapPrfab/TestOverhead/NavMesh/Mesh
-    100034: _MapPrfab/TestOverhead/NavMesh/Mesh
-    100036: _MapPrfab/TestOverhead/NavMesh/Mesh
     100038: _MapPrfab/TestOverhead/Deco
     100040: _MapPrfab/TestOverhead/Deco/Collision_Default
     100042: _MapPrfab/TestOverhead/Deco/Collision_Default/Polygon
@@ -63,13 +56,6 @@ ScriptedImporter:
     100110: _MapPrfab/TestOverhead/Trim/Collision_Default/Polygon
     100112: _MapPrfab/TestOverhead/Trim/Collision_Default/Polygon (1)
     100114: _MapPrfab/TestOverhead/Trim/Collision_Default/Polygon (2)
-    100116: _MapPrfab/TestOverhead/NavMesh/Mesh
-    100118: _MapPrfab/TestOverhead/NavMesh/Mesh
-    100120: _MapPrfab/TestOverhead/NavMesh/Mesh
-    100122: _MapPrfab/TestOverhead/NavMesh/Mesh
-    100124: _MapPrfab/TestOverhead/NavMesh/Mesh
-    100126: _MapPrfab/TestOverhead/NavMesh/Mesh
-    100128: _MapPrfab/TestOverhead/NavMesh/Mesh
     400000: _MapPrfab/TestOverhead/Transform
     400002: _MapPrfab/TestOverhead/OnGround/Transform
     400004: _MapPrfab/TestOverhead/OnGround/Pillar (broken) (TRS)/Transform
@@ -83,15 +69,8 @@ ScriptedImporter:
     400014: _MapPrfab/TestOverhead/OnGround/Pillar (TRS)/Pillar (CF)/Transform
     400016: _MapPrfab/TestOverhead/OnGround/Pillar (TRS)/Pillar (CF)/Pillar/Transform
     400018: _MapPrfab/TestOverhead/NavMesh/Transform
-    400020: _MapPrfab/TestOverhead/NavMesh/Cube/Transform
-    400022: _MapPrfab/TestOverhead/NavMesh/Cube/Transform
     400024: _MapPrfab/TestOverhead/OnGround/Pillar (TRS)/Pillar (CF)/Pillar/Object_2/Transform
     400026: _MapPrfab/TestOverhead/OnGround/Spawn/Transform
-    400028: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
-    400030: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
-    400032: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
-    400034: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
-    400036: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
     400038: _MapPrfab/TestOverhead/Deco/Transform
     400040: _MapPrfab/TestOverhead/Deco/Collision_Default/Transform
     400042: _MapPrfab/TestOverhead/Deco/Collision_Default/Polygon/Transform
@@ -131,43 +110,8 @@ ScriptedImporter:
     400110: _MapPrfab/TestOverhead/Trim/Collision_Default/Polygon/Transform
     400112: _MapPrfab/TestOverhead/Trim/Collision_Default/Polygon (1)/Transform
     400114: _MapPrfab/TestOverhead/Trim/Collision_Default/Polygon (2)/Transform
-    400116: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
-    400118: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
-    400120: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
-    400122: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
-    400124: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
-    400126: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
-    400128: _MapPrfab/TestOverhead/NavMesh/Mesh/Transform
     2300000: _MapPrfab/TestOverhead/NavMesh/MeshRenderer
-    2300002: _MapPrfab/TestOverhead/NavMesh/Cube/MeshRenderer
-    2300004: _MapPrfab/TestOverhead/NavMesh/Cube/MeshRenderer
-    2300006: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300008: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300010: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300012: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300014: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300016: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300018: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300020: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300022: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300024: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300026: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
-    2300028: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshRenderer
     3300000: _MapPrfab/TestOverhead/NavMesh/MeshFilter
-    3300002: _MapPrfab/TestOverhead/NavMesh/Cube/MeshFilter
-    3300004: _MapPrfab/TestOverhead/NavMesh/Cube/MeshFilter
-    3300006: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300008: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300010: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300012: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300014: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300016: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300018: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300020: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300022: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300024: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300026: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
-    3300028: _MapPrfab/TestOverhead/NavMesh/Mesh/MeshFilter
     5000002: _MapPrfab/TestOverhead/Deco/Collision_Default/Rigidbody2D
     5000004: _MapPrfab/TestOverhead/Ground/Collision_Default/Rigidbody2D
     5000006: _MapPrfab/TestOverhead/Ground/Collision_Water/Rigidbody2D
@@ -208,8 +152,6 @@ ScriptedImporter:
       (CF)/Pillar (broken)/Object_1/BoxCollider2D
     6100002: _MapPrfab/TestOverhead/OnGround/Pillar (TRS)/Pillar (CF)/Pillar/Object_2/BoxCollider2D
     6400000: _MapPrfab/TestOverhead/NavMesh/MeshCollider
-    6500000: _MapPrfab/TestOverhead/NavMesh/Cube/BoxCollider
-    6500002: _MapPrfab/TestOverhead/NavMesh/Cube/BoxCollider
     6600002: _MapPrfab/TestOverhead/Deco/Collision_Default/CompositeCollider2D
     6600004: _MapPrfab/TestOverhead/Ground/Collision_Default/CompositeCollider2D
     6600006: _MapPrfab/TestOverhead/Ground/Collision_Water/CompositeCollider2D
@@ -232,10 +174,6 @@ ScriptedImporter:
     11400028: _MapPrfab/TestOverhead/OnGround/Spawn/MonoBehaviour-SuperTiled2Unity.SuperObject
     11400030: _MapPrfab/TestOverhead/OnGround/Spawn/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
     11400032: _MapPrfab/TestOverhead/NavMesh/MonoBehaviour-NavMeshSurface2DBaker.Surface2DBaker
-    11400034: _MapPrfab/TestOverhead/NavMesh/Cube/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400036: _MapPrfab/TestOverhead/NavMesh/Cube/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400038: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400040: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
     11400042: _MapPrfab/TestOverhead/Deco/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
     11400044: _MapPrfab/TestOverhead/Deco/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
     11400046: _MapPrfab/TestOverhead/Deco/Collision_Default/Polygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
@@ -274,21 +212,10 @@ ScriptedImporter:
     11400112: _MapPrfab/TestOverhead/Trim/Collision_Default/Polygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
     11400114: _MapPrfab/TestOverhead/Trim/Collision_Default/Polygon (1)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
     11400116: _MapPrfab/TestOverhead/Trim/Collision_Default/Polygon (2)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
-    11400118: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400120: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400122: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400124: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400126: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400128: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400130: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400132: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400134: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
-    11400136: _MapPrfab/TestOverhead/NavMesh/Mesh/MonoBehaviour-UnityEngine.AI.NavMeshModifier
     21200000: _MapPrfab/TestOverhead/OnGround/Pillar (broken) (TRS)/Pillar (broken)
       (CF)/Pillar (broken)/SpriteRenderer
     21200002: _MapPrfab/TestOverhead/OnGround/Pillar (TRS)/Pillar (CF)/Pillar/SpriteRenderer
     100100000: _MapPrfab
-    2186277476908879412: ImportLogs
     2569400265252428796: _MapPrfab/TestOverhead/Grid
     3664157343022684178: _MapPrfab/TestOverhead/Deco/TilemapRenderer
     3664157343022684180: _MapPrfab/TestOverhead/Ground/TilemapRenderer

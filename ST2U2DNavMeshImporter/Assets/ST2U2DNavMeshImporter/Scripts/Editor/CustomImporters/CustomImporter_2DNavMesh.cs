@@ -21,7 +21,7 @@ namespace ST2U2DNavMeshImporter
     {
       var go = GameObject.CreatePrimitive(PrimitiveType.Plane);
       go.name = "NavMesh";
-      go.transform.rotation = Quaternion.Euler(270,0,0);
+      go.transform.rotation = Quaternion.Euler(270, 0, 0);
       go.AddComponent<NavMeshSurface>();
       var surfaceBaker = go.AddComponent<Surface2DBaker>();
       surfaceBaker.ObjectsContainingObstacles.Add(map.gameObject);
@@ -36,11 +36,12 @@ namespace ST2U2DNavMeshImporter
 
     private static void SetNavMeshPlaneScaleAndPosition(GameObject navMeshGameObject, SuperMap map)
     {
-      var scaleX = map.m_Width * map.m_TileWidth / 10;
-      var scaleZ = map.m_Height * map.m_TileHeight / 10;
-      var posX = map.m_Width * map.m_TileWidth / 2;
-      var posY = -(map.m_Height * map.m_TileHeight / 2);
-      
+      var grid = map.GetComponent<Grid>();
+      var scaleX = map.m_Width * grid.cellSize.x / 10;
+      var scaleZ = map.m_Height * grid.cellSize.y / 10;
+      var posX = map.m_Width * grid.cellSize.x / 2;
+      var posY = -(map.m_Height * grid.cellSize.y / 2);
+
       navMeshGameObject.transform.position = new Vector3(posX, posY, 0);
       navMeshGameObject.transform.localScale = new Vector3(scaleX, 0, scaleZ);
     }
