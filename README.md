@@ -42,7 +42,7 @@ Not at this moment, unfortunately. At the moment I don't see a clear solution fo
 Compatibility
 ---
 Current version tested with:
-* Unity 2018.3.0f2
+* Unity 2019.1.0f2
 * SuperTiled2Unity 1.1.9
 * Unity NavMeshComponents 2018.3.0f2
 
